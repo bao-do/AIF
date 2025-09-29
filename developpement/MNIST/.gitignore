@@ -1,0 +1,11 @@
+# Ignore all __pycache__ folders anywhere
+**/__pycache__/
+
+# Ignore all data folders anywhere
+**/data/
+
+# Ignore Gradio cache (specific folder)
+developpement/MNIST/.gradio/
+
+# Ignore MNIST folder (optional)
+developpement/MNIST/MNIST/
